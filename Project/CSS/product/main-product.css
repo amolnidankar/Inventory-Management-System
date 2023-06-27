@@ -78,6 +78,13 @@
     transition: transform 1.2s;
     height: 80%;
     width : 80%;
+    
+}
+
+.main-product-body .card a{
+    text-decoration: none;
+    color: black;
+   
 }
 
 .main-product-body .card:hover{
