@@ -94,14 +94,24 @@
     margin-left: 68px;
 }
 
-.body-para .d3{
+.body-para .d3 a{
     /* justify-self: start; */
     
     /* margin-left: 140px; */
+    /* font-size: 17px; */
+    /* padding : 20px; */
+    text-decoration: none;
+    color : black;
+    /* color: black; */
+    /* width: 162px;
+   height : 57px; */
+   /* animation: knowmore 30s linear infinite; */
+   /* height: 60px;
+   width : 165px; */
 }
 
 .body-para .d3 button {
-    background-color: white;
+    /* background-color: white; */
   color: black;
   border-radius: 10px;
   font-size: 17px;
@@ -112,6 +122,10 @@
   /* border: 1px solid black; */
    box-shadow: 12px 5px  lightgray;
    animation: knowmore 30s linear infinite;
+   /* height: 60px;
+   width : 165px; */
+
+   
 }
 
 
@@ -236,6 +250,12 @@ margin: auto;
     opacity: 1;
     transition: transform 1.2s;
    
+}
+
+
+.body-cards a{
+    text-decoration: none;
+    color : black;
 }
 
 .body-cards .card-1:hover,.card-2:hover,.card-3:hover{
